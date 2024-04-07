@@ -54,8 +54,9 @@
 </ul>
 <li>Install dependencies using npm or yarn:
 <ul>
-<li>PORT=3000</li>
-<li>SECRET=YOUR_SECRET_KEY</li>
+<li>npm install</li>
+  <p>or</p>
+<li>yarn install</li>
 <li>DB_URI=YOUR_DATABASE_URI</li>
 </ul>
 
