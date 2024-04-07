@@ -46,22 +46,27 @@
 
 
 <h3>How to run the application locally?</h3>
-<ul>
-<li>Clone the Adidas-client repository to your local machine:</li>
-<ul><li>git clone https://github.com/mhdAlghazouli/adidas-client.git</li></ul>
-<ul><li>Navigate to the cloned directory:</li></ul>
-  <ul><li>cd adidas-client</li>
+<ul>Clone the Adidas-client repository to your local machine:
+<li>git clone https://github.com/mhdAlghazouli/adidas-client.git
+</li>
 </ul>
-<ul><li>Install dependencies using npm or yarn:</li></ul>
-<ul>
+<ul>Navigate to the cloned directory:
+<li>cd adidas-client
+</li>
+</ul>
+<ul>Install dependencies using npm or yarn:
 <li>npm install</li> or <li>yarn install</li>
-
 </ul>
 <ul>
-  <li>Ensure that you have Expo CLI installed globally. If not, you can install it using npm or yarn:</li>
+  Ensure that you have Expo CLI installed globally. If not, you can install it using npm or yarn:
+  <li>npm install -g expo-cli</li> or <li>yarn global add expo-cli</li>
 </ul>
-
+<ul>Start the Expo development server:
+<li>expo start</li>
 </ul>
+<ul>Open the Expo Go app on your iOS or Android device.</ul>
+<ul>Use the Expo Go app to scan the QR code displayed in the terminal or in the browser that opens after running expo start.</ul>
+<ul>The app should now be running on your device.</ul>
 
 <h3>Contribution</h3>
 <p>Feel free to contribute to the development of Adidas by opening a pull request or creating an issue.</p>
