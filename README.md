@@ -14,6 +14,7 @@
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
 
-<h4>Home screen:</h4>![Simulator Screenshot - moe - 2024-04-07 at 16 14 19](https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e)
+<h4>Home screen:</h4>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e" />
 
 
