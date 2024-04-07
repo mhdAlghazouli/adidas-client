@@ -49,19 +49,18 @@
 <ul>
 <li>Clone the Adidas-client repository to your local machine:</li>
 <ul><li>git clone https://github.com/mhdAlghazouli/adidas-client.git</li></ul>
-<li>Navigate to the cloned directory:</li>
+<ul><li>Navigate to the cloned directory:</li></ul>
   <ul><li>cd adidas-client</li>
 </ul>
-<li>Install dependencies using npm or yarn:
+<ul><li>Install dependencies using npm or yarn:</li></ul>
 <ul>
 <li>npm install</li> or <li>yarn install</li>
 
-<li>DB_URI=YOUR_DATABASE_URI</li>
+</ul>
+<ul>
+  <li>Ensure that you have Expo CLI installed globally. If not, you can install it using npm or yarn:</li>
 </ul>
 
-</li>
-<li>Start the application by running npm start in the root of the project</li>
-<li>Access the application in your browser at http://localhost:3000</li>
 </ul>
 
 <h3>Contribution</h3>
