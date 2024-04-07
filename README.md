@@ -1,0 +1,15 @@
+<h3>This project is split into two separate repositories: an Adidas-client repository and an Adidas-api repository. </h3>
+<h1>Adidas</h1>
+<h2>The Adidas E-commerce mobile app enables users to browse and shop for a variety of sports apparel, including t-shirts, shoes, and pants. Users can add items to their favorites, remove them, add them to their shopping bag, edit their selections, remove items from the bag, and proceed to checkout.</h2>
+
+<h3>Back End:</h3>
+<a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
+<h3>Front End:</h3>
+<ul>The Front-end is built using the following technologies:</ul>
+
+
+<li>React-Native</li>
+<li>Expo</li>
+<li>react-native-vector-icons</li>
+<li>react-native-async-storage/async-storage</li>
+<li>react-navigation/native</li>
