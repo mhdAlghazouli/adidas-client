@@ -19,7 +19,9 @@
 </br>
 <h4>Products List screen:</h4>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/d6937da2-3580-4f3c-ba2d-c98f27fe37d5" width="30%" height="30%"/>
-
+</br>
+<h4>Account screen:</h4>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/4c3c82d4-8af7-4ee8-9c93-7264440d86ea" width="30%" height="30%"/>
 
 
 
