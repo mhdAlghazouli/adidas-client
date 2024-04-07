@@ -42,4 +42,33 @@
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/9c01878c-57ef-4e8b-9faa-31e218ad8f14" width="30%" height="30%"/>
 
 
+<h3>The application's Frontend is deployed at "Still Working On this"</h3>
+
+
+<h3>How to run the application locally?</h3>
+<ul>
+<li>Clone the Adidas-client repository to your local machine:</li>
+<ul><li>git clone https://github.com/mhdAlghazouli/adidas-client.git</li></ul>
+<li>Navigate to the cloned directory:</li>
+  <ul><li>cd adidas-client</li>
+</ul>
+<li>Install dependencies using npm or yarn:
+<ul>
+<li>PORT=3000</li>
+<li>SECRET=YOUR_SECRET_KEY</li>
+<li>DB_URI=YOUR_DATABASE_URI</li>
+</ul>
+
+</li>
+<li>Start the application by running npm start in the root of the project</li>
+<li>Access the application in your browser at http://localhost:3000</li>
+</ul>
+
+<h3>Contribution</h3>
+<p>Feel free to contribute to the development of Adidas by opening a pull request or creating an issue.</p>
+
+<h3>License</h3>
+<p><b>Adidas</b> is open source and released under the MIT License.</p>
+
+
 
