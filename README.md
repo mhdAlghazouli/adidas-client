@@ -13,3 +13,6 @@
 <li>react-native-vector-icons</li>
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
+
+<h4>Home screen:</h4>
+<img src="Simulator Screenshot - moe - 2024-04-07 at 16.14.19.png"/>
