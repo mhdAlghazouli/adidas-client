@@ -55,7 +55,7 @@
 <li>Install dependencies using npm or yarn:
 <ul>
 <li>npm install</li>
-  <p>or</p>
+  or
 <li>yarn install</li>
 <li>DB_URI=YOUR_DATABASE_URI</li>
 </ul>
