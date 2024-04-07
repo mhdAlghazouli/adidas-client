@@ -1,0 +1,586 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		797A91EF2B7447A300FDADE1 /* adidasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A91EE2B7447A300FDADE1 /* adidasApp.swift */; };
+		797A91F12B7447A300FDADE1 /* adidasDocument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A91F02B7447A300FDADE1 /* adidasDocument.swift */; };
+		797A91F32B7447A300FDADE1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A91F22B7447A300FDADE1 /* ContentView.swift */; };
+		797A91F52B7447A400FDADE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 797A91F42B7447A400FDADE1 /* Assets.xcassets */; };
+		797A91F82B7447A400FDADE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 797A91F72B7447A400FDADE1 /* Preview Assets.xcassets */; };
+		797A92042B7447A400FDADE1 /* adidasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A92032B7447A400FDADE1 /* adidasTests.swift */; };
+		797A920E2B7447A400FDADE1 /* adidasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A920D2B7447A400FDADE1 /* adidasUITests.swift */; };
+		797A92102B7447A400FDADE1 /* adidasUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797A920F2B7447A400FDADE1 /* adidasUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		797A92002B7447A400FDADE1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 797A91E32B7447A300FDADE1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 797A91EA2B7447A300FDADE1;
+			remoteInfo = adidas;
+		};
+		797A920A2B7447A400FDADE1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 797A91E32B7447A300FDADE1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 797A91EA2B7447A300FDADE1;
+			remoteInfo = adidas;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		797A91EB2B7447A300FDADE1 /* adidas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = adidas.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		797A91EE2B7447A300FDADE1 /* adidasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adidasApp.swift; sourceTree = "<group>"; };
+		797A91F02B7447A300FDADE1 /* adidasDocument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adidasDocument.swift; sourceTree = "<group>"; };
+		797A91F22B7447A300FDADE1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		797A91F42B7447A400FDADE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		797A91F72B7447A400FDADE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		797A91F92B7447A400FDADE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		797A91FA2B7447A400FDADE1 /* adidas.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = adidas.entitlements; sourceTree = "<group>"; };
+		797A91FF2B7447A400FDADE1 /* adidasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = adidasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		797A92032B7447A400FDADE1 /* adidasTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adidasTests.swift; sourceTree = "<group>"; };
+		797A92092B7447A400FDADE1 /* adidasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = adidasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		797A920D2B7447A400FDADE1 /* adidasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adidasUITests.swift; sourceTree = "<group>"; };
+		797A920F2B7447A400FDADE1 /* adidasUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adidasUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		797A91E82B7447A300FDADE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A91FC2B7447A400FDADE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A92062B7447A400FDADE1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		797A91E22B7447A300FDADE1 = {
+			isa = PBXGroup;
+			children = (
+				797A91ED2B7447A300FDADE1 /* adidas */,
+				797A92022B7447A400FDADE1 /* adidasTests */,
+				797A920C2B7447A400FDADE1 /* adidasUITests */,
+				797A91EC2B7447A300FDADE1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		797A91EC2B7447A300FDADE1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				797A91EB2B7447A300FDADE1 /* adidas.app */,
+				797A91FF2B7447A400FDADE1 /* adidasTests.xctest */,
+				797A92092B7447A400FDADE1 /* adidasUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		797A91ED2B7447A300FDADE1 /* adidas */ = {
+			isa = PBXGroup;
+			children = (
+				797A91EE2B7447A300FDADE1 /* adidasApp.swift */,
+				797A91F02B7447A300FDADE1 /* adidasDocument.swift */,
+				797A91F22B7447A300FDADE1 /* ContentView.swift */,
+				797A91F42B7447A400FDADE1 /* Assets.xcassets */,
+				797A91F92B7447A400FDADE1 /* Info.plist */,
+				797A91FA2B7447A400FDADE1 /* adidas.entitlements */,
+				797A91F62B7447A400FDADE1 /* Preview Content */,
+			);
+			path = adidas;
+			sourceTree = "<group>";
+		};
+		797A91F62B7447A400FDADE1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				797A91F72B7447A400FDADE1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		797A92022B7447A400FDADE1 /* adidasTests */ = {
+			isa = PBXGroup;
+			children = (
+				797A92032B7447A400FDADE1 /* adidasTests.swift */,
+			);
+			path = adidasTests;
+			sourceTree = "<group>";
+		};
+		797A920C2B7447A400FDADE1 /* adidasUITests */ = {
+			isa = PBXGroup;
+			children = (
+				797A920D2B7447A400FDADE1 /* adidasUITests.swift */,
+				797A920F2B7447A400FDADE1 /* adidasUITestsLaunchTests.swift */,
+			);
+			path = adidasUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		797A91EA2B7447A300FDADE1 /* adidas */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 797A92132B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidas" */;
+			buildPhases = (
+				797A91E72B7447A300FDADE1 /* Sources */,
+				797A91E82B7447A300FDADE1 /* Frameworks */,
+				797A91E92B7447A300FDADE1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = adidas;
+			productName = adidas;
+			productReference = 797A91EB2B7447A300FDADE1 /* adidas.app */;
+			productType = "com.apple.product-type.application";
+		};
+		797A91FE2B7447A400FDADE1 /* adidasTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 797A92162B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidasTests" */;
+			buildPhases = (
+				797A91FB2B7447A400FDADE1 /* Sources */,
+				797A91FC2B7447A400FDADE1 /* Frameworks */,
+				797A91FD2B7447A400FDADE1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				797A92012B7447A400FDADE1 /* PBXTargetDependency */,
+			);
+			name = adidasTests;
+			productName = adidasTests;
+			productReference = 797A91FF2B7447A400FDADE1 /* adidasTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		797A92082B7447A400FDADE1 /* adidasUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 797A92192B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidasUITests" */;
+			buildPhases = (
+				797A92052B7447A400FDADE1 /* Sources */,
+				797A92062B7447A400FDADE1 /* Frameworks */,
+				797A92072B7447A400FDADE1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				797A920B2B7447A400FDADE1 /* PBXTargetDependency */,
+			);
+			name = adidasUITests;
+			productName = adidasUITests;
+			productReference = 797A92092B7447A400FDADE1 /* adidasUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		797A91E32B7447A300FDADE1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					797A91EA2B7447A300FDADE1 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					797A91FE2B7447A400FDADE1 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 797A91EA2B7447A300FDADE1;
+					};
+					797A92082B7447A400FDADE1 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 797A91EA2B7447A300FDADE1;
+					};
+				};
+			};
+			buildConfigurationList = 797A91E62B7447A300FDADE1 /* Build configuration list for PBXProject "adidas" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 797A91E22B7447A300FDADE1;
+			productRefGroup = 797A91EC2B7447A300FDADE1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				797A91EA2B7447A300FDADE1 /* adidas */,
+				797A91FE2B7447A400FDADE1 /* adidasTests */,
+				797A92082B7447A400FDADE1 /* adidasUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		797A91E92B7447A300FDADE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797A91F82B7447A400FDADE1 /* Preview Assets.xcassets in Resources */,
+				797A91F52B7447A400FDADE1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A91FD2B7447A400FDADE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A92072B7447A400FDADE1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		797A91E72B7447A300FDADE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797A91F12B7447A300FDADE1 /* adidasDocument.swift in Sources */,
+				797A91EF2B7447A300FDADE1 /* adidasApp.swift in Sources */,
+				797A91F32B7447A300FDADE1 /* ContentView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A91FB2B7447A400FDADE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797A92042B7447A400FDADE1 /* adidasTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		797A92052B7447A400FDADE1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				797A92102B7447A400FDADE1 /* adidasUITestsLaunchTests.swift in Sources */,
+				797A920E2B7447A400FDADE1 /* adidasUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		797A92012B7447A400FDADE1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 797A91EA2B7447A300FDADE1 /* adidas */;
+			targetProxy = 797A92002B7447A400FDADE1 /* PBXContainerItemProxy */;
+		};
+		797A920B2B7447A400FDADE1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 797A91EA2B7447A300FDADE1 /* adidas */;
+			targetProxy = 797A920A2B7447A400FDADE1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		797A92112B7447A400FDADE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		797A92122B7447A400FDADE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		797A92142B7447A400FDADE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = adidas/adidas.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"adidas/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = adidas/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidas;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		797A92152B7447A400FDADE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = adidas/adidas.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"adidas/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = adidas/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidas;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		797A92172B7447A400FDADE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidasTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/adidas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/adidas";
+			};
+			name = Debug;
+		};
+		797A92182B7447A400FDADE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidasTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/adidas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/adidas";
+			};
+			name = Release;
+		};
+		797A921A2B7447A400FDADE1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidasUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = adidas;
+			};
+			name = Debug;
+		};
+		797A921B2B7447A400FDADE1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = www.google.com.adidasUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = adidas;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		797A91E62B7447A300FDADE1 /* Build configuration list for PBXProject "adidas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797A92112B7447A400FDADE1 /* Debug */,
+				797A92122B7447A400FDADE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		797A92132B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797A92142B7447A400FDADE1 /* Debug */,
+				797A92152B7447A400FDADE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		797A92162B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidasTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797A92172B7447A400FDADE1 /* Debug */,
+				797A92182B7447A400FDADE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		797A92192B7447A400FDADE1 /* Build configuration list for PBXNativeTarget "adidasUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				797A921A2B7447A400FDADE1 /* Debug */,
+				797A921B2B7447A400FDADE1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 797A91E32B7447A300FDADE1 /* Project object */;
+}
