@@ -68,7 +68,7 @@
 <ul>Use the Expo Go app to scan the QR code displayed in the terminal or in the browser that opens after running expo start.</ul>
 <ul>The app should now be running on your device.</ul>
 
-<h4 style="color: red">Please note that since the backend is deployed on Render, you don't need to run it locally. The frontend will interact with the deployed backend on Render by making HTTP requests to its URL. </h4>
+<h4 style="color: #fff">Please note that since the backend is deployed on Render, you don't need to run it locally. The frontend will interact with the deployed backend on Render by making HTTP requests to its URL. </h4>
 
 <h3>Contribution</h3>
 <p>Feel free to contribute to the development of Adidas by opening a pull request or creating an issue.</p>
