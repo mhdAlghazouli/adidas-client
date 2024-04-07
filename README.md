@@ -16,5 +16,10 @@
 
 <h4>Home screen:</h4>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e" width="30%" height="30%"/>
+</br>
+<h4>Home screen:</h4>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e" width="30%" height="30%"/>
+
+
 
 
