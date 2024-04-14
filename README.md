@@ -5,7 +5,7 @@
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
 
 
-<h3 class=text>Back End:</h3>
+<h3>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
 
 <ul>The Front-end is built using the following technologies:</ul>
@@ -18,16 +18,21 @@
 <li>react-navigation/native</li>
 
 
-  <div class=div1>
+<div>
+  show: <span>
 <h1>Home screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>   
     
-  </div>
-<div >
-  <h1>Products List screen:</h1>
+  </span>
+  <span>
+     <h1>Products List screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
   
+  </span>
 </div>
+
+ 
+
   
 
 
