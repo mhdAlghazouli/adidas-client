@@ -94,7 +94,7 @@
 <p><b>Adidas</b> is open source and released under the MIT License.</p>
 
 <style>
-  .div1:{
+  .div1{
     display: inline-block;
     background-color: red;
   }
