@@ -10,7 +10,6 @@
 
 <ul>The Front-end is built using the following technologies:</ul>
 
-![Mhd Alghazzouli's Video - Apr 14, 2024 (1)](https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1)
 
 <li>React-Native</li>
 <li>Expo</li>
