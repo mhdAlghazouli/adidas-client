@@ -16,21 +16,21 @@
 <li>react-native-vector-icons</li>
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
+<div style="dispaly: flex">
+  <div>
+<h1>Home screen:</h1>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>   
+  </div>
 <div>
-<h1>Home screen:
-
-  <span>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
-    
-  </span>
-<!-- <h4>Products List screen:</h4>  -->
-Products List screen:
-  <span>
-  
+  <h1>Products List screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
+</div>
+
+ 
+  
     
-  </span>
-  </h1>
+  
+
 </div>
 
 <span>
