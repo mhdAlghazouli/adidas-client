@@ -17,23 +17,19 @@
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
 
-<div>
-  <div atyle="background-color: red; width: 100px; height: 100px; display: inline-block;">
+
+  <div align="left">
 <h1>Home screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>   
     
   </div>
-<div style="background-color: red; width: 100px; height: 100px; display: inline-block;">
+<div align="center">
   <h1>Products List screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
   
 </div>
-</div>
 
-<div>
-  <div style="background-color: red; width: 100px; height: 100px; display: inline-block;">Div 1</div>
-  <div style="background-color: blue; width: 100px; height: 100px; display: inline-block;">Div 2</div>
-</div>
+
 
 
 
