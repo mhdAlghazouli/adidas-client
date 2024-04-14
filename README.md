@@ -2,12 +2,12 @@
 <h1>Adidas Summary</h1>
 <h2>The Adidas E-commerce mobile app enables users to browse and shop for a variety of sports apparel, including t-shirts, shoes, and pants. Users can add items to their favorites, remove them, add them to their shopping bag, edit their selections, remove items from the bag, and proceed to checkout.</h2>
 <h3>IOS Version:</h3>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58924b50-7b34-480e-8f2e-f8dc3f655685" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
 
 
 <h3>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
-<h3>Front End:</h3>
+
 <ul>The Front-end is built using the following technologies:</ul>
 
 
