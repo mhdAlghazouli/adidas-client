@@ -30,6 +30,12 @@
 </div>
 </div>
 
+<div>
+  <div style="background-color: red; width: 100px; height: 100px; display: inline-block;">Div 1</div>
+  <div style="background-color: blue; width: 100px; height: 100px; display: inline-block;">Div 2</div>
+</div>
+
+
 
 
 </br>
