@@ -18,11 +18,13 @@
 <li>react-navigation/native</li>
 <div>
 <!-- <h4>Home screen:</h4> -->
+  Home screen:
   <span>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
     
   </span>
 <!-- <h4>Products List screen:</h4>  -->
+Products List screen:
   <span>
   
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
