@@ -98,7 +98,7 @@
     display: inline-block;
     background-color: red;
   }
-  .text{
+  h1{
     color: red
   }
 </style>
