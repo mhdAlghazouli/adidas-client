@@ -10,6 +10,7 @@
 
 <ul>The Front-end is built using the following technologies:</ul>
 
+![Mhd Alghazzouli's Video - Apr 14, 2024 (1)](https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1)
 
 <li>React-Native</li>
 <li>Expo</li>
@@ -18,11 +19,11 @@
 <li>react-navigation/native</li>
 
 <h4>Home screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
 
 </br>
 <h4>Products List screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/d6937da2-3580-4f3c-ba2d-c98f27fe37d5" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
 </br>
 <h4>Account screen:</h4>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/4c3c82d4-8af7-4ee8-9c93-7264440d86ea" width="30%" height="30%"/>
