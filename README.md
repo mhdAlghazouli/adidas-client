@@ -1,10 +1,6 @@
 <h3>This project is split into two separate repositories: an Adidas-client repository and an Adidas-api repository. </h3>
 <h1>Adidas Summary</h1>
 <h2>The Adidas E-commerce mobile app enables users to browse and shop for a variety of sports apparel, including t-shirts, shoes, and pants. Users can add items to their favorites, remove them, add them to their shopping bag, edit their selections, remove items from the bag, and proceed to checkout.</h2>
-<h3>IOS Version:</h3>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
-
-![Mhd Alghazzouli's Video - Apr 14, 2024 (2)]()
 
 <h3>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
@@ -41,6 +37,8 @@
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/cab5671d-818b-48ee-b8a4-7c450b4cf444" width="30%" height="30%"/>
 
 
+
+
 <h3>How to run the application locally?</h3>
 <ul>Clone the Adidas-client repository to your local machine:
 <li>git clone https://github.com/mhdAlghazouli/adidas-client.git
@@ -72,15 +70,6 @@
 <h3>License</h3>
 <p><b>Adidas</b> is open source and released under the MIT License.</p>
 
-<style>
-  .div1{
-    display: inline-block;
-    background-color: red;
-  }
-  h1{
-    color: red
-  }
-</style>
 
 
 
