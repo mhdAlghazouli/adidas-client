@@ -17,7 +17,7 @@
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
 <div>
-<p>Home screen:
+<h1>Home screen:
 
   <span>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
@@ -30,7 +30,7 @@ Products List screen:
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
     
   </span>
-  </p>
+  </h1>
 </div>
 
 <span>
