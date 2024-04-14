@@ -17,19 +17,19 @@
 <li>react-native-async-storage/async-storage</li>
 <li>react-navigation/native</li>
 
-<div>
-  <div align="left">
+
+  <div class=div1>
 <h1>Home screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>   
     
   </div>
-<div align="center">
+<div >
   <h1>Products List screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
   
 </div>
   
-</div>
+
 
 
 
@@ -92,6 +92,12 @@
 
 <h3>License</h3>
 <p><b>Adidas</b> is open source and released under the MIT License.</p>
+
+<style>
+  .div1:{
+    display: inline-block;
+  }
+</style>
 
 
 
