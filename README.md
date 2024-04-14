@@ -96,6 +96,7 @@
 <style>
   .div1:{
     display: inline-block;
+    background-color: red;
   }
 </style>
 
