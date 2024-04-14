@@ -4,6 +4,7 @@
 <h3>IOS Version:</h3>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
 
+![Mhd Alghazzouli's Video - Apr 14, 2024 (2)]()
 
 <h3>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
@@ -28,28 +29,16 @@
 
 </br>
 <h4>Account screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/4c3c82d4-8af7-4ee8-9c93-7264440d86ea" width="30%" height="30%"/>
-</br>
-<h4>Login screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/b58bc598-ceb5-448d-9038-710bd1fea4ec" width="30%" height="30%"/>
-</br>
-<h4>Signup screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/6a3b1807-a138-4763-a477-76eb4170abcd" width="30%" height="30%"/>
-</br>
-<h4>Update User screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/dfac4051-8895-4b18-8506-33dbc00ac0b0" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/1cd5ff11-9bbd-4ec7-94d5-c783d4ca6024" width="30%" height="30%"/>
 </br>
 <h4>Bag screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/87638eed-6a8a-4707-8221-92fafffc4dcb" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/f8b949a7-f6f2-4c18-b9f1-88bcf6fb5249" width="30%" height="30%"/>
 </br>
 <h4>Favorite screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/d2a6b613-44d9-4c70-977b-193987325b12" width="30%" height="30%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/d8468819-931f-4b7d-8855-9f6a7b90c3ee" width="30%" height="30%"/>
 </br>
-<h4>Product Details screen:</h4>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/9c01878c-57ef-4e8b-9faa-31e218ad8f14" width="30%" height="30%"/>
-
-
-<h3>The application's Frontend is deployed at "Still Working On this"</h3>
+<h4>Logout screen:</h4>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/cab5671d-818b-48ee-b8a4-7c450b4cf444" width="30%" height="30%"/>
 
 
 <h3>How to run the application locally?</h3>
