@@ -38,7 +38,7 @@
 
 <h1>Code Overview:</h1>
 <p>The code snippet below demonstrates how to enable users to log in to their accounts.</p>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/fb44144d-d11c-40f1-b502-ecfbbb2e8263" width="70%" height="70%"/>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/e6e8f3c0-13a8-4625-ad2a-8d15c945b644" width="70%" height="70%"/>
 
 
 
