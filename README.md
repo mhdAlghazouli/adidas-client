@@ -5,7 +5,7 @@
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>
 
 
-<h3>Back End:</h3>
+<h3 class=text>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
 
 <ul>The Front-end is built using the following technologies:</ul>
@@ -97,6 +97,9 @@
   .div1{
     display: inline-block;
     background-color: red;
+  }
+  .text{
+    color: red
   }
 </style>
 
