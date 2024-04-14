@@ -1,11 +1,9 @@
 <h3>This project is split into two separate repositories: an Adidas-client repository and an Adidas-api repository. </h3>
 <h1>Adidas Summary</h1>
 <h2>The Adidas E-commerce mobile app enables users to browse and shop for a variety of sports apparel, including t-shirts, shoes, and pants. Users can add items to their favorites, remove them, add them to their shopping bag, edit their selections, remove items from the bag, and proceed to checkout.</h2>
+<h3>IOS Version:</h3>
+<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58924b50-7b34-480e-8f2e-f8dc3f655685" width="30%" height="30%"/>
 
-<video width="320" height="240"
-  >
-</video>
-![RPReplay_Final1713121171-2](https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58924b50-7b34-480e-8f2e-f8dc3f655685)
 
 <h3>Back End:</h3>
 <a href="https://github.com/mhdAlghazouli/adidas-api">Adidas-api</a>
@@ -21,7 +19,6 @@
 
 <h4>Home screen:</h4>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/08dc7927-4405-41d5-a32d-7ae47a6a7e9e" width="30%" height="30%"/>
-<img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58924b50-7b34-480e-8f2e-f8dc3f655685" width="30%" height="30%"/>
 
 </br>
 <h4>Products List screen:</h4>
