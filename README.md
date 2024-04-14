@@ -18,8 +18,8 @@
 <li>react-navigation/native</li>
 
 
-<div>
-  show: <span>
+
+ <h1>show: <span>
 <h1>Home screen:</h1>
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/58768790-e686-44d4-8a13-647583f470f7" width="30%" height="30%"/>   
     
@@ -29,7 +29,7 @@
 <img src="https://github.com/mhdAlghazouli/adidas-client/assets/94564835/2e40b7e1-3ece-4db3-b3ee-2883cf7be4f1" width="30%" height="30%"/>
   
   </span>
-</div>
+</h1> 
 
  
 
